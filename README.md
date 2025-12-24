@@ -52,7 +52,7 @@ port-scanner-web/
 
 # ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/port-scanner-web.git
+https://github.com/satya006c/Domain-Port-Scanner.git
 
 cd port-scanner-web
 
